@@ -65,7 +65,7 @@ The system background will be simple and in plain white color. Light grey color 
 
 ![New User Button](https://user-images.githubusercontent.com/54991974/210634375-387ed295-4774-45cf-a549-861c8102b68e.png)
 
-The New User button will be located on the top left of the screen. When New User is clicked, the system will generate a user form in the right portion of the screen. Inside the button, there will be a **+** (plus) sign to indicate adding function.
+The New User button will be located on the top left of the screen. When New User is clicked, the system will generate a user form in the right portion of the screen. Inside the button, there will be a **+** (plus) sign to indicate adding function. The color of the button will be `#007cba` and the text inside will be white.
 
 ### Hide Disabled User Checkbox
 
